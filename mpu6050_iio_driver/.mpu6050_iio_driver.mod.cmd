@@ -1,0 +1,1 @@
+savedcmd_/home/shubham-pi5/Projects/linux_driver_development/mpu6050_iio_driver/mpu6050_iio_driver.mod := printf '%s\n'   mpu6050_iio_driver.o | awk '!x[$$0]++ { print("/home/shubham-pi5/Projects/linux_driver_development/mpu6050_iio_driver/"$$0) }' > /home/shubham-pi5/Projects/linux_driver_development/mpu6050_iio_driver/mpu6050_iio_driver.mod

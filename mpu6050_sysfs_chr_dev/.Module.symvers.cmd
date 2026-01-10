@@ -1,0 +1,1 @@
+savedcmd_/home/shubham-pi5/Projects/linux_driver_development/mpu6050_sysfs_chr_dev/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/shubham-pi5/Projects/linux_driver_development/mpu6050_sysfs_chr_dev/Module.symvers -T /home/shubham-pi5/Projects/linux_driver_development/mpu6050_sysfs_chr_dev/modules.order -i Module.symvers -e 

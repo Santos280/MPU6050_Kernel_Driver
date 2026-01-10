@@ -1,0 +1,1 @@
+/home/shubham-pi5/Projects/linux_driver_development/MPU6050_driver_development/mpu6050_probe_test/mpu6050_probe_test.o
