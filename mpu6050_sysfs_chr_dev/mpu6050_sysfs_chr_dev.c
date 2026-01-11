@@ -1,3 +1,8 @@
+/*********************************************
+ ****** MPU6050 sysfs Kernel Driver **********
+ ******** By Shubham Santosh *****************
+ ********************************************/
+
 #include <linux/module.h>
 #include <linux/init.h>
 #include <linux/i2c.h>

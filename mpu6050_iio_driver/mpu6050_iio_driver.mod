@@ -1,1 +1,0 @@
-/home/shubham-pi5/Projects/linux_driver_development/mpu6050_iio_driver/mpu6050_iio_driver.o

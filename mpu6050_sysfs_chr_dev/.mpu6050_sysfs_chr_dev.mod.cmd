@@ -1,1 +1,0 @@
-savedcmd_/home/shubham-pi5/Projects/linux_driver_development/mpu6050_sysfs_chr_dev/mpu6050_sysfs_chr_dev.mod := printf '%s\n'   mpu6050_sysfs_chr_dev.o | awk '!x[$$0]++ { print("/home/shubham-pi5/Projects/linux_driver_development/mpu6050_sysfs_chr_dev/"$$0) }' > /home/shubham-pi5/Projects/linux_driver_development/mpu6050_sysfs_chr_dev/mpu6050_sysfs_chr_dev.mod

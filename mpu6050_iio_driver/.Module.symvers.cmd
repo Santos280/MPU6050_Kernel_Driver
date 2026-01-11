@@ -1,1 +1,0 @@
-savedcmd_/home/shubham-pi5/Projects/linux_driver_development/mpu6050_iio_driver/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/shubham-pi5/Projects/linux_driver_development/mpu6050_iio_driver/Module.symvers -T /home/shubham-pi5/Projects/linux_driver_development/mpu6050_iio_driver/modules.order -i Module.symvers -e 

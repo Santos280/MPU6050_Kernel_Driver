@@ -1,1 +1,0 @@
-/home/shubham-pi5/Projects/linux_driver_development/mpu6050_sysfs_chr_dev/mpu6050_sysfs_chr_dev.o
