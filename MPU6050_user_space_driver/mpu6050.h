@@ -1,3 +1,8 @@
+/***********************************************
+ ****** i2c helper functions for MPU6050********
+ ******** By Shubham Santosh *******************
+ **********************************************/
+ 
 #include <stdio.h>
 #include <stdint.h>
 #include <stdlib.h>
